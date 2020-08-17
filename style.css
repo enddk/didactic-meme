@@ -78,9 +78,6 @@ nav {
   font-size: 14px;
 }
 
-.container-fluid > div{
-  padding: 30px;
-}
 
 .container-fluid > div .title {
   margin: 10px 0 40px;
